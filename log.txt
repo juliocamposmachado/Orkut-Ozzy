@@ -1,0 +1,105 @@
+O usuario email homer@simpson, com nome Homer foi cadastrado em 2019-06-23 23:46:02
+O usuario email rick@sanches, com nome Rick foi cadastrado em 2019-06-23 23:46:45
+O usuario email morty@sanches, com nome Morty foi cadastrado em 2019-06-23 23:54:07
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-23 23:54:51
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:00:41
+O usuario email jeancordeiro626@gmail.com, com nome Jean foi cadastrado em 2019-06-24 00:02:50
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:03:27
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:03:42
+O usuario email rick@sanches, com nome Rick foi alterado em 2019-06-24 00:03:56
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:05:35
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:06:52
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:06:56
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:07:25
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:07:28
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:08:09
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:08:38
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:10:36
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:11:48
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-06-24 00:15:03
+O usuario email rick@sanches, com nome Rick foi alterado em 2019-06-24 00:15:37
+O usuario email samer@sanches, com nome Samer foi cadastrado em 2019-06-24 00:23:37
+O usuario email samer@sanches, com nome Samer foi alterado em 2019-06-24 00:25:20
+O usuario email samer@sanches, com nome Samer foi alterado em 2019-06-24 00:25:35
+O usuario email homer@simpson, com nome Homer foi alterado em 2019-06-24 00:25:56
+O usuario email beth@sanches, com nome Beth foi cadastrado em 2019-06-24 00:26:27
+O usuario email bart@simpson, com nome Bart foi cadastrado em 2019-06-24 00:56:47
+O usuario email homer@simpson, com nome Homer foi cadastrado em 2019-06-24 01:45:39
+O usuario email homer@simpson, com nome Homer foi alterado em 2019-06-24 01:46:11
+O usuario email rick@sanches, com nome Rick foi cadastrado em 2019-06-24 01:51:42
+O usuario email dfgg@434, com nome fbsb foi cadastrado em 2019-06-29 00:17:09
+O usuario email dfgg@43434, com nome fbsb4 foi cadastrado em 2019-06-29 00:17:34
+O usuario email dfgg@wefwe, com nome wqwqw foi cadastrado em 2019-06-29 00:21:05
+O usuario email dfgg@wefwe, com nome wqwqw foi cadastrado em 2019-06-29 00:22:24
+O usuario email ewe@wefwe, com nome wqwqw foi cadastrado em 2019-06-29 00:22:31
+O usuario email sfgh@fgd, com nome fghdfgh foi cadastrado em 2019-06-29 00:36:28
+O usuario email sfgh@fgbd, com nome fghdfgh foi cadastrado em 2019-06-29 00:38:07
+O usuario email , com nome  foi cadastrado em 2019-06-29 01:52:00
+O usuario email homer@u66, com nome wlekf12358 foi cadastrado em 2019-06-29 01:53:34
+O usuario email hg@gfxg, com nome <<<>>>>><fbsb4 foi cadastrado em 2019-06-29 01:54:31
+O usuario email t@t, com nome tttt foi cadastrado em 2019-06-29 02:16:11
+O usuario email tyuyto@tjjj, com nome tytoyu foi alterado em 2019-06-29 02:27:59
+O usuario email t@t99, com nome fgbkr343 foi alterado em 2019-06-29 02:28:35
+O usuario email , com nome  foi alterado em 2019-06-29 02:42:10
+O usuario email , com nome  foi alterado em 2019-06-29 02:42:55
+O usuario email , com nome  foi alterado em 2019-06-29 02:44:19
+O usuario email , com nome  foi alterado em 2019-06-29 02:45:05
+O usuario email , com nome  foi alterado em 2019-06-29 02:45:59
+O usuario email , com nome  foi alterado em 2019-06-29 02:46:24
+O usuario email , com nome  foi alterado em 2019-06-29 02:46:46
+O usuario email , com nome  foi alterado em 2019-06-29 02:47:31
+O usuario email , com nome  foi alterado em 2019-06-29 02:48:42
+O usuario email 3vfv@f, com nome 3eff foi cadastrado em 2019-06-29 02:50:17
+O usuario email , com nome  foi alterado em 2019-06-29 02:52:28
+O usuario email , com nome  foi alterado em 2019-06-29 02:53:30
+O usuario email jeanc@gmail.com, com nome Jean C foi alterado em 2019-06-29 02:56:15
+O usuario email jeanc@gmail.com, com nome Jean C foi alterado em 2019-06-29 02:57:00
+O usuario email jeancss@gmail.com, com nome Jean CSS foi alterado em 2019-06-29 02:58:49
+O usuario email ff4f@mm, com nome 33fff foi cadastrado em 2019-06-29 03:16:31
+O usuario email , foi deletado em 2019-06-29 03:19:59
+O usuario email , foi deletado em 2019-06-29 03:22:08
+O usuario email , foi deletado em 2019-06-29 03:22:37
+O usuario email , foi deletado em 2019-06-29 03:22:59
+O usuario email hg@gfxg, foi deletado em 2019-06-29 03:23:40
+O usuario email hg@gfxg, foi deletado em 2019-06-29 03:23:43
+O usuario email hg@gfxg, foi deletado em 2019-06-29 03:23:45
+O usuario email ff4f@mm, foi deletado em 2019-06-29 03:24:21
+O usuario email t@t, foi deletado em 2019-06-29 03:24:58
+O usuario email 3vfv@f, foi deletado em 2019-06-29 03:25:22
+O usuario email 3vfv@f, foi deletado em 2019-06-29 03:25:50
+O usuario email homer@u66, foi deletado em 2019-06-29 03:25:56
+O usuario email homer@u6, foi deletado em 2019-06-29 03:27:08
+O usuario email sfgh@fgbd, foi deletado em 2019-06-29 03:28:03
+O usuario email sfgh@fgbd, foi deletado em 2019-06-29 03:28:10
+O usuario email dfgg@434, foi deletado em 2019-06-29 03:28:43
+O usuario email sfgh@fgd, foi deletado em 2019-06-29 03:28:51
+O usuario email ewe@wefwe, foi deletado em 2019-06-29 03:28:58
+O usuario email dfgg@wefwe, foi deletado em 2019-06-29 03:29:07
+O usuario email dfgg@43434, foi deletado em 2019-06-29 03:29:13
+O usuario email rick@rener, foi deletado em 2019-06-29 03:29:22
+O usuario email homer@simpson, com nome Homer foi cadastrado em 2019-06-29 03:33:31
+O usuario email mm@lkl, com nome fbsb foi cadastrado em 2019-06-29 03:34:14
+O usuario email ggg@lkl, com nome yuhoi foi alterado em 2019-06-29 03:35:55
+O usuario email ggg@lkl, foi deletado em 2019-06-29 03:38:22
+O usuario email ggg@lkl, foi deletado em 2019-06-29 03:58:51
+O usuario email homer@simpson, com nome HomerJ foi alterado em 2019-06-30 00:17:53
+O usuario email rick@sanches, com nome Rick foi cadastrado em 2019-06-30 00:55:07
+O usuario email homer@simpson, com nome Homer foi alterado em 2019-06-30 00:58:22
+O usuario email jeancordeiro626@gmail.com, com nome Jean C foi cadastrado em 2019-06-30 01:06:03
+O usuario email jeanc626@g, com nome Jean foi alterado em 2019-06-30 01:07:38
+O usuario email homer@simpson, foi deletado em 2019-06-30 01:10:37
+O usuario email homer@simpson, com nome Homer foi cadastrado em 2019-07-04 00:19:14
+O usuario email rick@sanches, com nome Rick foi cadastrado em 2019-07-04 00:19:29
+O usuario email jeancordeiro626@gmail.com, com nome Jean C foi cadastrado em 2019-07-04 00:19:50
+O usuario email axel@rose, com nome Axel foi cadastrado em 2019-07-04 00:20:50
+O usuario email cuc@biludo, com nome Cuca foi cadastrado em 2019-07-04 00:21:37
+O usuario email axel@rose, com nome Axel foi alterado em 2019-07-04 01:13:41
+O usuario email morty@sanches, com nome Morty foi alterado em 2019-07-04 01:25:23
+O usuario email bart@simpson, com nome Bart foi cadastrado em 2019-07-04 04:06:25
+O usuario email rick@morthy, com nome Jean foi cadastrado em 2019-07-07 04:13:23
+O usuario email j@s, com nome Jean foi alterado em 2019-07-07 04:14:17
+O usuario email dsfvdasfv@ffvv, com nome dfv foi cadastrado em 2019-07-07 04:16:57
+O usuario email jean@c, com nome Jean foi cadastrado em 2019-07-07 14:22:23
+O usuario email h@w, com nome Xulambes foi cadastrado em 2019-07-07 17:21:00
+O usuario email h@w, com nome Joao foi alterado em 2019-07-07 22:34:03
+O usuario email ity@bilo, com nome Tygkdkuca foi alterado em 2019-07-07 22:35:35
