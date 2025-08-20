@@ -11,7 +11,13 @@
 		$username = $_ENV['DB_USER'] ?? 'root';
 		$password = $_ENV['DB_PASS'] ?? '78451200';
 		
-		$this->conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
+		// Opções para PlanetScale (SSL)
+		$options = [
+			PDO::MYSQL_ATTR_SSL_CA => false,
+			PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT => false,
+		];
+		
+		$this->conn = new PDO("mysql:host=$host;dbname=$dbname;sslmode=require", $username, $password, $options);
 		}
 
 		public function buscarUsuarios() {
